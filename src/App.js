@@ -6,7 +6,7 @@ function App() {
         <div className="App">
             <h1>Запись и отправка аудио</h1>
             <AudioRecorder />
-            <AudioProcessingPage /> {/* Включение компонента AudioProcessingPage в корневой компонент */}
+
         </div>
     );
 }
